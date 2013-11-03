@@ -1,4 +1,2 @@
 math
-
-i do math
 ====
