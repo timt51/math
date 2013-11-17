@@ -1,0 +1,3264 @@
+The prime is: 11
+The value of n is: 4
+The prime gap is: 0
+The prime is: 31
+The value of n is: 6
+The prime gap is: 2
+The prime is: 59
+The value of n is: 8
+The prime gap is: 2
+The prime is: 139
+The value of n is: 12
+The prime gap is: 4
+The prime is: 191
+The value of n is: 14
+The prime gap is: 2
+The prime is: 251
+The value of n is: 16
+The prime gap is: 2
+The prime is: 479
+The value of n is: 22
+The prime gap is: 6
+The prime is: 571
+The value of n is: 24
+The prime gap is: 2
+The prime is: 1019
+The value of n is: 32
+The prime gap is: 8
+The prime is: 1151
+The value of n is: 34
+The prime gap is: 2
+The prime is: 1291
+The value of n is: 36
+The prime gap is: 2
+The prime is: 1439
+The value of n is: 38
+The prime gap is: 2
+The prime is: 1759
+The value of n is: 42
+The prime gap is: 4
+The prime is: 1931
+The value of n is: 44
+The prime gap is: 2
+The prime is: 2111
+The value of n is: 46
+The prime gap is: 2
+The prime is: 2699
+The value of n is: 52
+The prime gap is: 6
+The prime is: 3359
+The value of n is: 58
+The prime gap is: 6
+The prime is: 4091
+The value of n is: 64
+The prime gap is: 6
+The prime is: 5179
+The value of n is: 72
+The prime gap is: 8
+The prime is: 5471
+The value of n is: 74
+The prime gap is: 2
+The prime is: 6079
+The value of n is: 78
+The prime gap is: 4
+The prime is: 6719
+The value of n is: 82
+The prime gap is: 4
+The prime is: 8831
+The value of n is: 94
+The prime gap is: 12
+The prime is: 10399
+The value of n is: 102
+The prime gap is: 8
+The prime is: 12539
+The value of n is: 112
+The prime gap is: 10
+The prime is: 13451
+The value of n is: 116
+The prime gap is: 4
+The prime is: 14879
+The value of n is: 122
+The prime gap is: 6
+The prime is: 17419
+The value of n is: 132
+The prime gap is: 10
+The prime is: 20731
+The value of n is: 144
+The prime gap is: 12
+The prime is: 23099
+The value of n is: 152
+The prime gap is: 8
+The prime is: 26891
+The value of n is: 164
+The prime gap is: 12
+The prime is: 27551
+The value of n is: 166
+The prime gap is: 2
+The prime is: 28219
+The value of n is: 168
+The prime gap is: 2
+The prime is: 30271
+The value of n is: 174
+The prime gap is: 6
+The prime is: 30971
+The value of n is: 176
+The prime gap is: 2
+The prime is: 33119
+The value of n is: 182
+The prime gap is: 6
+The prime is: 33851
+The value of n is: 184
+The prime gap is: 2
+The prime is: 34591
+The value of n is: 186
+The prime gap is: 2
+The prime is: 35339
+The value of n is: 188
+The prime gap is: 2
+The prime is: 39199
+The value of n is: 198
+The prime gap is: 10
+The prime is: 41611
+The value of n is: 204
+The prime gap is: 6
+The prime is: 44939
+The value of n is: 212
+The prime gap is: 8
+The prime is: 49279
+The value of n is: 222
+The prime gap is: 10
+The prime is: 51071
+The value of n is: 226
+The prime gap is: 4
+The prime is: 53819
+The value of n is: 232
+The prime gap is: 6
+The prime is: 54751
+The value of n is: 234
+The prime gap is: 2
+The prime is: 55691
+The value of n is: 236
+The prime gap is: 2
+The prime is: 63499
+The value of n is: 252
+The prime gap is: 16
+The prime is: 68639
+The value of n is: 262
+The prime gap is: 10
+The prime is: 69691
+The value of n is: 264
+The prime gap is: 2
+The prime is: 77279
+The value of n is: 278
+The prime gap is: 14
+The prime is: 80651
+The value of n is: 284
+The prime gap is: 6
+The prime is: 82939
+The value of n is: 288
+The prime gap is: 4
+The prime is: 85259
+The value of n is: 292
+The prime gap is: 4
+The prime is: 88799
+The value of n is: 298
+The prime gap is: 6
+The prime is: 91199
+The value of n is: 302
+The prime gap is: 4
+The prime is: 101119
+The value of n is: 318
+The prime gap is: 16
+The prime is: 104971
+The value of n is: 324
+The prime gap is: 6
+The prime is: 116959
+The value of n is: 342
+The prime gap is: 18
+The prime is: 125311
+The value of n is: 354
+The prime gap is: 12
+The prime is: 128159
+The value of n is: 358
+The prime gap is: 4
+The prime is: 132491
+The value of n is: 364
+The prime gap is: 6
+The prime is: 139871
+The value of n is: 374
+The prime gap is: 10
+The prime is: 141371
+The value of n is: 376
+The prime gap is: 2
+The prime is: 147451
+The value of n is: 384
+The prime gap is: 8
+The prime is: 148991
+The value of n is: 386
+The prime gap is: 2
+The prime is: 155231
+The value of n is: 394
+The prime gap is: 8
+The prime is: 161599
+The value of n is: 402
+The prime gap is: 8
+The prime is: 163211
+The value of n is: 404
+The prime gap is: 2
+The prime is: 164831
+The value of n is: 406
+The prime gap is: 2
+The prime is: 186619
+The value of n is: 432
+The prime gap is: 26
+The prime is: 188351
+The value of n is: 434
+The prime gap is: 2
+The prime is: 195359
+The value of n is: 442
+The prime gap is: 8
+The prime is: 200699
+The value of n is: 448
+The prime gap is: 6
+The prime is: 204299
+The value of n is: 452
+The prime gap is: 4
+The prime is: 207931
+The value of n is: 456
+The prime gap is: 4
+The prime is: 219019
+The value of n is: 468
+The prime gap is: 12
+The prime is: 222779
+The value of n is: 472
+The prime gap is: 4
+The prime is: 226571
+The value of n is: 476
+The prime gap is: 4
+The prime is: 228479
+The value of n is: 478
+The prime gap is: 2
+The prime is: 242059
+The value of n is: 492
+The prime gap is: 14
+The prime is: 246011
+The value of n is: 496
+The prime gap is: 4
+The prime is: 247999
+The value of n is: 498
+The prime gap is: 2
+The prime is: 256031
+The value of n is: 506
+The prime gap is: 8
+The prime is: 262139
+The value of n is: 512
+The prime gap is: 6
+The prime is: 276671
+The value of n is: 526
+The prime gap is: 14
+The prime is: 285151
+The value of n is: 534
+The prime gap is: 8
+The prime is: 287291
+The value of n is: 536
+The prime gap is: 2
+The prime is: 289439
+The value of n is: 538
+The prime gap is: 2
+The prime is: 300299
+The value of n is: 548
+The prime gap is: 10
+The prime is: 309131
+The value of n is: 556
+The prime gap is: 8
+The prime is: 311359
+The value of n is: 558
+The prime gap is: 2
+The prime is: 327179
+The value of n is: 572
+The prime gap is: 14
+The prime is: 329471
+The value of n is: 574
+The prime gap is: 2
+The prime is: 343391
+The value of n is: 586
+The prime gap is: 12
+The prime is: 345739
+The value of n is: 588
+The prime gap is: 2
+The prime is: 350459
+The value of n is: 592
+The prime gap is: 4
+The prime is: 352831
+The value of n is: 594
+The prime gap is: 2
+The prime is: 355211
+The value of n is: 596
+The prime gap is: 2
+The prime is: 367231
+The value of n is: 606
+The prime gap is: 10
+The prime is: 369659
+The value of n is: 608
+The prime gap is: 2
+The prime is: 379451
+The value of n is: 616
+The prime gap is: 8
+The prime is: 414731
+The value of n is: 644
+The prime gap is: 28
+The prime is: 417311
+The value of n is: 646
+The prime gap is: 2
+The prime is: 427711
+The value of n is: 654
+The prime gap is: 8
+The prime is: 432959
+The value of n is: 658
+The prime gap is: 4
+The prime is: 443551
+The value of n is: 666
+The prime gap is: 8
+The prime is: 451579
+The value of n is: 672
+The prime gap is: 6
+The prime is: 465119
+The value of n is: 682
+The prime gap is: 10
+The prime is: 484411
+The value of n is: 696
+The prime gap is: 14
+The prime is: 492799
+The value of n is: 702
+The prime gap is: 6
+The prime is: 495611
+The value of n is: 704
+The prime gap is: 2
+The prime is: 515519
+The value of n is: 718
+The prime gap is: 14
+The prime is: 524171
+The value of n is: 724
+The prime gap is: 6
+The prime is: 527071
+The value of n is: 726
+The prime gap is: 2
+The prime is: 529979
+The value of n is: 728
+The prime gap is: 2
+The prime is: 538751
+The value of n is: 734
+The prime gap is: 6
+The prime is: 571531
+The value of n is: 756
+The prime gap is: 22
+The prime is: 580639
+The value of n is: 762
+The prime gap is: 6
+The prime is: 617791
+The value of n is: 786
+The prime gap is: 24
+The prime is: 643199
+The value of n is: 802
+The prime gap is: 16
+The prime is: 646411
+The value of n is: 804
+The prime gap is: 2
+The prime is: 649631
+The value of n is: 806
+The prime gap is: 2
+The prime is: 662591
+The value of n is: 814
+The prime gap is: 8
+The prime is: 678971
+The value of n is: 824
+The prime gap is: 10
+The prime is: 698891
+The value of n is: 836
+The prime gap is: 12
+The prime is: 702239
+The value of n is: 838
+The prime gap is: 2
+The prime is: 708959
+The value of n is: 842
+The prime gap is: 4
+The prime is: 712331
+The value of n is: 844
+The prime gap is: 2
+The prime is: 732731
+The value of n is: 856
+The prime gap is: 12
+The prime is: 736159
+The value of n is: 858
+The prime gap is: 2
+The prime is: 777919
+The value of n is: 882
+The prime gap is: 24
+The prime is: 795659
+The value of n is: 892
+The prime gap is: 10
+The prime is: 802811
+The value of n is: 896
+The prime gap is: 4
+The prime is: 817211
+The value of n is: 904
+The prime gap is: 8
+The prime is: 824459
+The value of n is: 908
+The prime gap is: 4
+The prime is: 831739
+The value of n is: 912
+The prime gap is: 4
+The prime is: 835391
+The value of n is: 914
+The prime gap is: 2
+The prime is: 839051
+The value of n is: 916
+The prime gap is: 2
+The prime is: 857471
+The value of n is: 926
+The prime gap is: 10
+The prime is: 872351
+The value of n is: 934
+The prime gap is: 8
+The prime is: 879839
+The value of n is: 938
+The prime gap is: 4
+The prime is: 917759
+The value of n is: 958
+The prime gap is: 20
+The prime is: 933151
+The value of n is: 966
+The prime gap is: 8
+The prime is: 948671
+The value of n is: 974
+The prime gap is: 8
+The prime is: 968251
+The value of n is: 984
+The prime gap is: 10
+The prime is: 984059
+The value of n is: 992
+The prime gap is: 8
+The prime is: 992011
+The value of n is: 996
+The prime gap is: 4
+The prime is: 1012031
+The value of n is: 1006
+The prime gap is: 10
+The prime is: 1028191
+The value of n is: 1014
+The prime gap is: 8
+The prime is: 1036319
+The value of n is: 1018
+The prime gap is: 4
+The prime is: 1044479
+The value of n is: 1022
+The prime gap is: 4
+The prime is: 1048571
+The value of n is: 1024
+The prime gap is: 2
+The prime is: 1056779
+The value of n is: 1028
+The prime gap is: 4
+The prime is: 1065019
+The value of n is: 1032
+The prime gap is: 4
+The prime is: 1115131
+The value of n is: 1056
+The prime gap is: 24
+The prime is: 1119359
+The value of n is: 1058
+The prime gap is: 2
+The prime is: 1132091
+The value of n is: 1064
+The prime gap is: 6
+The prime is: 1140619
+The value of n is: 1068
+The prime gap is: 4
+The prime is: 1157771
+The value of n is: 1076
+The prime gap is: 8
+The prime is: 1162079
+The value of n is: 1078
+The prime gap is: 2
+The prime is: 1183739
+The value of n is: 1088
+The prime gap is: 10
+The prime is: 1223231
+The value of n is: 1106
+The prime gap is: 18
+The prime is: 1227659
+The value of n is: 1108
+The prime gap is: 2
+The prime is: 1240991
+The value of n is: 1114
+The prime gap is: 6
+The prime is: 1245451
+The value of n is: 1116
+The prime gap is: 2
+The prime is: 1272379
+The value of n is: 1128
+The prime gap is: 12
+The prime is: 1290491
+The value of n is: 1136
+The prime gap is: 8
+The prime is: 1308731
+The value of n is: 1144
+The prime gap is: 8
+The prime is: 1313311
+The value of n is: 1146
+The prime gap is: 2
+The prime is: 1327099
+The value of n is: 1152
+The prime gap is: 6
+The prime is: 1331711
+The value of n is: 1154
+The prime gap is: 2
+The prime is: 1340959
+The value of n is: 1158
+The prime gap is: 4
+The prime is: 1378271
+The value of n is: 1174
+The prime gap is: 16
+The prime is: 1397119
+The value of n is: 1182
+The prime gap is: 8
+The prime is: 1406591
+The value of n is: 1186
+The prime gap is: 4
+The prime is: 1449611
+The value of n is: 1204
+The prime gap is: 18
+The prime is: 1459259
+The value of n is: 1208
+The prime gap is: 4
+The prime is: 1468939
+The value of n is: 1212
+The prime gap is: 4
+The prime is: 1483519
+The value of n is: 1218
+The prime gap is: 6
+The prime is: 1493279
+The value of n is: 1222
+The prime gap is: 4
+The prime is: 1517819
+The value of n is: 1232
+The prime gap is: 10
+The prime is: 1532639
+The value of n is: 1238
+The prime gap is: 6
+The prime is: 1557499
+The value of n is: 1248
+The prime gap is: 10
+The prime is: 1567499
+The value of n is: 1252
+The prime gap is: 4
+The prime is: 1572511
+The value of n is: 1254
+The prime gap is: 2
+The prime is: 1577531
+The value of n is: 1256
+The prime gap is: 2
+The prime is: 1592639
+The value of n is: 1262
+The prime gap is: 6
+The prime is: 1602751
+The value of n is: 1266
+The prime gap is: 4
+The prime is: 1623071
+The value of n is: 1274
+The prime gap is: 8
+The prime is: 1628171
+The value of n is: 1276
+The prime gap is: 2
+The prime is: 1653791
+The value of n is: 1286
+The prime gap is: 10
+The prime is: 1669259
+The value of n is: 1292
+The prime gap is: 6
+The prime is: 1721339
+The value of n is: 1312
+The prime gap is: 20
+The prime is: 1726591
+The value of n is: 1314
+The prime gap is: 2
+The prime is: 1763579
+The value of n is: 1328
+The prime gap is: 14
+The prime is: 1784891
+The value of n is: 1336
+The prime gap is: 8
+The prime is: 1800959
+The value of n is: 1342
+The prime gap is: 6
+The prime is: 1806331
+The value of n is: 1344
+The prime gap is: 2
+The prime is: 1817099
+The value of n is: 1348
+The prime gap is: 4
+The prime is: 1855039
+The value of n is: 1362
+The prime gap is: 14
+The prime is: 1893371
+The value of n is: 1376
+The prime gap is: 14
+The prime is: 1915451
+The value of n is: 1384
+The prime gap is: 8
+The prime is: 1920991
+The value of n is: 1386
+The prime gap is: 2
+The prime is: 1937659
+The value of n is: 1392
+The prime gap is: 6
+The prime is: 1943231
+The value of n is: 1394
+The prime gap is: 2
+The prime is: 1976831
+The value of n is: 1406
+The prime gap is: 12
+The prime is: 2039179
+The value of n is: 1428
+The prime gap is: 22
+The prime is: 2062091
+The value of n is: 1436
+The prime gap is: 8
+The prime is: 2085131
+The value of n is: 1444
+The prime gap is: 8
+The prime is: 2108299
+The value of n is: 1452
+The prime gap is: 8
+The prime is: 2149151
+The value of n is: 1466
+The prime gap is: 14
+The prime is: 2178571
+The value of n is: 1476
+The prime gap is: 10
+The prime is: 2238011
+The value of n is: 1496
+The prime gap is: 20
+The prime is: 2255999
+The value of n is: 1502
+The prime gap is: 6
+The prime is: 2268031
+The value of n is: 1506
+The prime gap is: 4
+The prime is: 2286139
+The value of n is: 1512
+The prime gap is: 6
+The prime is: 2304319
+The value of n is: 1518
+The prime gap is: 6
+The prime is: 2322571
+The value of n is: 1524
+The prime gap is: 6
+The prime is: 2334779
+The value of n is: 1528
+The prime gap is: 4
+The prime is: 2365439
+The value of n is: 1538
+The prime gap is: 10
+The prime is: 2390111
+The value of n is: 1546
+The prime gap is: 8
+The prime is: 2414911
+The value of n is: 1554
+The prime gap is: 8
+The prime is: 2439839
+The value of n is: 1562
+The prime gap is: 8
+The prime is: 2446091
+The value of n is: 1564
+The prime gap is: 2
+The prime is: 2471179
+The value of n is: 1572
+The prime gap is: 8
+The prime is: 2477471
+The value of n is: 1574
+The prime gap is: 2
+The prime is: 2490079
+The value of n is: 1578
+The prime gap is: 4
+The prime is: 2502719
+The value of n is: 1582
+The prime gap is: 4
+The prime is: 2534459
+The value of n is: 1592
+The prime gap is: 10
+The prime is: 2540831
+The value of n is: 1594
+The prime gap is: 2
+The prime is: 2547211
+The value of n is: 1596
+The prime gap is: 2
+The prime is: 2553599
+The value of n is: 1598
+The prime gap is: 2
+The prime is: 2572811
+The value of n is: 1604
+The prime gap is: 6
+The prime is: 2585659
+The value of n is: 1608
+The prime gap is: 4
+The prime is: 2630879
+The value of n is: 1622
+The prime gap is: 14
+The prime is: 2643871
+The value of n is: 1626
+The prime gap is: 4
+The prime is: 2650379
+The value of n is: 1628
+The prime gap is: 2
+The prime is: 2669951
+The value of n is: 1634
+The prime gap is: 6
+The prime is: 2676491
+The value of n is: 1636
+The prime gap is: 2
+The prime is: 2715899
+The value of n is: 1648
+The prime gap is: 12
+The prime is: 2729099
+The value of n is: 1652
+The prime gap is: 4
+The prime is: 2775551
+The value of n is: 1666
+The prime gap is: 14
+The prime is: 2835851
+The value of n is: 1684
+The prime gap is: 18
+The prime is: 2842591
+The value of n is: 1686
+The prime gap is: 2
+The prime is: 2849339
+The value of n is: 1688
+The prime gap is: 2
+The prime is: 2862859
+The value of n is: 1692
+The prime gap is: 4
+The prime is: 2876411
+The value of n is: 1696
+The prime gap is: 4
+The prime is: 2896799
+The value of n is: 1702
+The prime gap is: 6
+The prime is: 2917259
+The value of n is: 1708
+The prime gap is: 6
+The prime is: 2937791
+The value of n is: 1714
+The prime gap is: 6
+The prime is: 2972171
+The value of n is: 1724
+The prime gap is: 10
+The prime is: 2985979
+The value of n is: 1728
+The prime gap is: 4
+The prime is: 2999819
+The value of n is: 1732
+The prime gap is: 4
+The prime is: 3013691
+The value of n is: 1736
+The prime gap is: 4
+The prime is: 3041531
+The value of n is: 1744
+The prime gap is: 8
+The prime is: 3048511
+The value of n is: 1746
+The prime gap is: 2
+The prime is: 3069499
+The value of n is: 1752
+The prime gap is: 6
+The prime is: 3076511
+The value of n is: 1754
+The prime gap is: 2
+The prime is: 3125819
+The value of n is: 1768
+The prime gap is: 14
+The prime is: 3139979
+The value of n is: 1772
+The prime gap is: 4
+The prime is: 3196939
+The value of n is: 1788
+The prime gap is: 16
+The prime is: 3218431
+The value of n is: 1794
+The prime gap is: 6
+The prime is: 3232799
+The value of n is: 1798
+The prime gap is: 4
+The prime is: 3247199
+The value of n is: 1802
+The prime gap is: 4
+The prime is: 3261631
+The value of n is: 1806
+The prime gap is: 4
+The prime is: 3283339
+The value of n is: 1812
+The prime gap is: 6
+The prime is: 3305119
+The value of n is: 1818
+The prime gap is: 6
+The prime is: 3326971
+The value of n is: 1824
+The prime gap is: 6
+The prime is: 3334271
+The value of n is: 1826
+The prime gap is: 2
+The prime is: 3341579
+The value of n is: 1828
+The prime gap is: 2
+The prime is: 3392959
+The value of n is: 1842
+The prime gap is: 14
+The prime is: 3415099
+The value of n is: 1848
+The prime gap is: 6
+The prime is: 3467039
+The value of n is: 1862
+The prime gap is: 14
+The prime is: 3541919
+The value of n is: 1882
+The prime gap is: 20
+The prime is: 3556991
+The value of n is: 1886
+The prime gap is: 4
+The prime is: 3617599
+The value of n is: 1902
+The prime gap is: 16
+The prime is: 3625211
+The value of n is: 1904
+The prime gap is: 2
+The prime is: 3632831
+The value of n is: 1906
+The prime gap is: 2
+The prime is: 3655739
+The value of n is: 1912
+The prime gap is: 6
+The prime is: 3779131
+The value of n is: 1944
+The prime gap is: 32
+The prime is: 3810299
+The value of n is: 1952
+The prime gap is: 8
+The prime is: 3825931
+The value of n is: 1956
+The prime gap is: 4
+The prime is: 3928319
+The value of n is: 1982
+The prime gap is: 26
+The prime is: 3976031
+The value of n is: 1994
+The prime gap is: 12
+The prime is: 4007999
+The value of n is: 2002
+The prime gap is: 8
+The prime is: 4032059
+The value of n is: 2008
+The prime gap is: 6
+The prime is: 4145291
+The value of n is: 2036
+The prime gap is: 28
+The prime is: 4177931
+The value of n is: 2044
+The prime gap is: 8
+The prime is: 4334719
+The value of n is: 2082
+The prime gap is: 38
+The prime is: 4359739
+The value of n is: 2088
+The prime gap is: 6
+The prime is: 4502879
+The value of n is: 2122
+The prime gap is: 34
+The prime is: 4519871
+The value of n is: 2126
+The prime gap is: 4
+The prime is: 4553951
+The value of n is: 2134
+The prime gap is: 8
+The prime is: 4588159
+The value of n is: 2142
+The prime gap is: 8
+The prime is: 4596731
+The value of n is: 2144
+The prime gap is: 2
+The prime is: 4605311
+The value of n is: 2146
+The prime gap is: 2
+The prime is: 4674239
+The value of n is: 2162
+The prime gap is: 16
+The prime is: 4700219
+The value of n is: 2168
+The prime gap is: 6
+The prime is: 4787339
+The value of n is: 2188
+The prime gap is: 20
+The prime is: 4875259
+The value of n is: 2208
+The prime gap is: 20
+The prime is: 4910651
+The value of n is: 2216
+The prime gap is: 8
+The prime is: 5044511
+The value of n is: 2246
+The prime gap is: 30
+The prime is: 5098559
+The value of n is: 2258
+The prime gap is: 12
+The prime is: 5134751
+The value of n is: 2266
+The prime gap is: 8
+The prime is: 5171071
+The value of n is: 2274
+The prime gap is: 8
+The prime is: 5180171
+The value of n is: 2276
+The prime gap is: 2
+The prime is: 5207519
+The value of n is: 2282
+The prime gap is: 6
+The prime is: 5225791
+The value of n is: 2286
+The prime gap is: 4
+The prime is: 5280799
+The value of n is: 2298
+The prime gap is: 12
+The prime is: 5373119
+The value of n is: 2318
+The prime gap is: 20
+The prime is: 5391679
+The value of n is: 2322
+The prime gap is: 4
+The prime is: 5438219
+The value of n is: 2332
+The prime gap is: 10
+The prime is: 5541311
+The value of n is: 2354
+The prime gap is: 22
+The prime is: 5588491
+The value of n is: 2364
+The prime gap is: 10
+The prime is: 5635871
+The value of n is: 2374
+The prime gap is: 10
+The prime is: 5702539
+The value of n is: 2388
+The prime gap is: 14
+The prime is: 5721659
+The value of n is: 2392
+The prime gap is: 4
+The prime is: 5750399
+The value of n is: 2398
+The prime gap is: 6
+The prime is: 5798459
+The value of n is: 2408
+The prime gap is: 10
+The prime is: 5895179
+The value of n is: 2428
+The prime gap is: 20
+The prime is: 5924351
+The value of n is: 2434
+The prime gap is: 6
+The prime is: 5934091
+The value of n is: 2436
+The prime gap is: 2
+The prime is: 5973131
+The value of n is: 2444
+The prime gap is: 8
+The prime is: 6031931
+The value of n is: 2456
+The prime gap is: 12
+The prime is: 6041759
+The value of n is: 2458
+The prime gap is: 2
+The prime is: 6061439
+The value of n is: 2462
+The prime gap is: 4
+The prime is: 6170251
+The value of n is: 2484
+The prime gap is: 22
+The prime is: 6210059
+The value of n is: 2492
+The prime gap is: 8
+The prime is: 6280031
+The value of n is: 2506
+The prime gap is: 14
+The prime is: 6370571
+The value of n is: 2524
+The prime gap is: 18
+The prime is: 6411019
+The value of n is: 2532
+The prime gap is: 8
+The prime is: 6441439
+The value of n is: 2538
+The prime gap is: 6
+The prime is: 6461759
+The value of n is: 2542
+The prime gap is: 4
+The prime is: 6512699
+The value of n is: 2552
+The prime gap is: 10
+The prime is: 6522911
+The value of n is: 2554
+The prime gap is: 2
+The prime is: 6543359
+The value of n is: 2558
+The prime gap is: 4
+The prime is: 6594619
+The value of n is: 2568
+The prime gap is: 10
+The prime is: 6615179
+The value of n is: 2572
+The prime gap is: 4
+The prime is: 6666719
+The value of n is: 2582
+The prime gap is: 10
+The prime is: 6687391
+The value of n is: 2586
+The prime gap is: 4
+The prime is: 6791231
+The value of n is: 2606
+The prime gap is: 20
+The prime is: 6843451
+The value of n is: 2616
+The prime gap is: 10
+The prime is: 6885371
+The value of n is: 2624
+The prime gap is: 8
+The prime is: 6895871
+The value of n is: 2626
+The prime gap is: 2
+The prime is: 6937951
+The value of n is: 2634
+The prime gap is: 8
+The prime is: 6980159
+The value of n is: 2642
+The prime gap is: 8
+The prime is: 7001311
+The value of n is: 2646
+The prime gap is: 4
+The prime is: 7086239
+The value of n is: 2662
+The prime gap is: 16
+The prime is: 7096891
+The value of n is: 2664
+The prime gap is: 2
+The prime is: 7118219
+The value of n is: 2668
+The prime gap is: 4
+The prime is: 7160971
+The value of n is: 2676
+The prime gap is: 8
+The prime is: 7203851
+The value of n is: 2684
+The prime gap is: 8
+The prime is: 7268411
+The value of n is: 2696
+The prime gap is: 12
+The prime is: 7279199
+The value of n is: 2698
+The prime gap is: 2
+The prime is: 7354939
+The value of n is: 2712
+The prime gap is: 14
+The prime is: 7365791
+The value of n is: 2714
+The prime gap is: 2
+The prime is: 7376651
+The value of n is: 2716
+The prime gap is: 2
+The prime is: 7485691
+The value of n is: 2736
+The prime gap is: 20
+The prime is: 7496639
+The value of n is: 2738
+The prime gap is: 2
+The prime is: 7551499
+The value of n is: 2748
+The prime gap is: 10
+The prime is: 7606559
+The value of n is: 2758
+The prime gap is: 10
+The prime is: 7739519
+The value of n is: 2782
+The prime gap is: 24
+The prime is: 7806431
+The value of n is: 2794
+The prime gap is: 12
+The prime is: 7873631
+The value of n is: 2806
+The prime gap is: 12
+The prime is: 7941119
+The value of n is: 2818
+The prime gap is: 12
+The prime is: 7997579
+The value of n is: 2828
+The prime gap is: 10
+The prime is: 8054239
+The value of n is: 2838
+The prime gap is: 10
+The prime is: 8088331
+The value of n is: 2844
+The prime gap is: 6
+The prime is: 8213951
+The value of n is: 2866
+The prime gap is: 22
+The prime is: 8248379
+The value of n is: 2872
+The prime gap is: 6
+The prime is: 8259871
+The value of n is: 2874
+The prime gap is: 2
+The prime is: 8271371
+The value of n is: 2876
+The prime gap is: 2
+The prime is: 8433211
+The value of n is: 2904
+The prime gap is: 28
+The prime is: 8444831
+The value of n is: 2906
+The prime gap is: 2
+The prime is: 8491391
+The value of n is: 2914
+The prime gap is: 8
+The prime is: 8561471
+The value of n is: 2926
+The prime gap is: 12
+The prime is: 8596619
+The value of n is: 2932
+The prime gap is: 6
+The prime is: 8773439
+The value of n is: 2962
+The prime gap is: 30
+The prime is: 8832779
+The value of n is: 2972
+The prime gap is: 10
+The prime is: 8868479
+The value of n is: 2978
+The prime gap is: 6
+The prime is: 8916191
+The value of n is: 2986
+The prime gap is: 8
+The prime is: 8964031
+The value of n is: 2994
+The prime gap is: 8
+The prime is: 9024011
+The value of n is: 3004
+The prime gap is: 10
+The prime is: 9229439
+The value of n is: 3038
+The prime gap is: 34
+The prime is: 9314699
+The value of n is: 3052
+The prime gap is: 14
+The prime is: 9388091
+The value of n is: 3064
+The prime gap is: 12
+The prime is: 9400351
+The value of n is: 3066
+The prime gap is: 2
+The prime is: 9437179
+The value of n is: 3072
+The prime gap is: 6
+The prime is: 9449471
+The value of n is: 3074
+The prime gap is: 2
+The prime is: 9498719
+The value of n is: 3082
+The prime gap is: 8
+The prime is: 9721919
+The value of n is: 3118
+The prime gap is: 36
+The prime is: 9759371
+The value of n is: 3124
+The prime gap is: 6
+The prime is: 9809419
+The value of n is: 3132
+The prime gap is: 8
+The prime is: 9834491
+The value of n is: 3136
+The prime gap is: 4
+The prime is: 9935099
+The value of n is: 3152
+The prime gap is: 16
+The prime is: 9998239
+The value of n is: 3162
+The prime gap is: 10
+The prime is: 10074271
+The value of n is: 3174
+The prime gap is: 12
+The prime is: 10163339
+The value of n is: 3188
+The prime gap is: 14
+The prime is: 10214411
+The value of n is: 3196
+The prime gap is: 8
+The prime is: 10278431
+The value of n is: 3206
+The prime gap is: 10
+The prime is: 10381279
+The value of n is: 3222
+The prime gap is: 16
+The prime is: 10394171
+The value of n is: 3224
+The prime gap is: 2
+The prime is: 10419979
+The value of n is: 3228
+The prime gap is: 4
+The prime is: 10445819
+The value of n is: 3232
+The prime gap is: 4
+The prime is: 10458751
+The value of n is: 3234
+The prime gap is: 2
+The prime is: 10510559
+The value of n is: 3242
+The prime gap is: 8
+The prime is: 10523531
+The value of n is: 3244
+The prime gap is: 2
+The prime is: 10549499
+The value of n is: 3248
+The prime gap is: 4
+The prime is: 10588511
+The value of n is: 3254
+The prime gap is: 6
+The prime is: 10601531
+The value of n is: 3256
+The prime gap is: 2
+The prime is: 10640639
+The value of n is: 3262
+The prime gap is: 6
+The prime is: 10653691
+The value of n is: 3264
+The prime gap is: 2
+The prime is: 10732171
+The value of n is: 3276
+The prime gap is: 12
+The prime is: 10784651
+The value of n is: 3284
+The prime gap is: 8
+The prime is: 10850431
+The value of n is: 3294
+The prime gap is: 10
+The prime is: 10903199
+The value of n is: 3302
+The prime gap is: 8
+The prime is: 10982591
+The value of n is: 3314
+The prime gap is: 12
+The prime is: 11035679
+The value of n is: 3322
+The prime gap is: 8
+The prime is: 11102219
+The value of n is: 3332
+The prime gap is: 10
+The prime is: 11128891
+The value of n is: 3336
+The prime gap is: 4
+The prime is: 11182331
+The value of n is: 3344
+The prime gap is: 8
+The prime is: 11235899
+The value of n is: 3352
+The prime gap is: 8
+The prime is: 11262731
+The value of n is: 3356
+The prime gap is: 4
+The prime is: 11316491
+The value of n is: 3364
+The prime gap is: 8
+The prime is: 11329951
+The value of n is: 3366
+The prime gap is: 2
+The prime is: 11397371
+The value of n is: 3376
+The prime gap is: 10
+The prime is: 11519231
+The value of n is: 3394
+The prime gap is: 18
+The prime is: 11532811
+The value of n is: 3396
+The prime gap is: 2
+The prime is: 11737471
+The value of n is: 3426
+The prime gap is: 30
+The prime is: 11778619
+The value of n is: 3432
+The prime gap is: 6
+The prime is: 11792351
+The value of n is: 3434
+The prime gap is: 2
+The prime is: 11819839
+The value of n is: 3438
+The prime gap is: 4
+The prime is: 11861131
+The value of n is: 3444
+The prime gap is: 6
+The prime is: 11874911
+The value of n is: 3446
+The prime gap is: 2
+The prime is: 11930111
+The value of n is: 3454
+The prime gap is: 8
+The prime is: 11999291
+The value of n is: 3464
+The prime gap is: 10
+The prime is: 12138251
+The value of n is: 3484
+The prime gap is: 20
+The prime is: 12166139
+The value of n is: 3488
+The prime gap is: 4
+The prime is: 12194059
+The value of n is: 3492
+The prime gap is: 4
+The prime is: 12278011
+The value of n is: 3504
+The prime gap is: 12
+The prime is: 12489151
+The value of n is: 3534
+The prime gap is: 30
+The prime is: 12545759
+The value of n is: 3542
+The prime gap is: 8
+The prime is: 12716351
+The value of n is: 3566
+The prime gap is: 24
+The prime is: 12759179
+The value of n is: 3572
+The prime gap is: 6
+The prime is: 12773471
+The value of n is: 3574
+The prime gap is: 2
+The prime is: 12916831
+The value of n is: 3594
+The prime gap is: 20
+The prime is: 13003231
+The value of n is: 3606
+The prime gap is: 12
+The prime is: 13017659
+The value of n is: 3608
+The prime gap is: 2
+The prime is: 13133371
+The value of n is: 3624
+The prime gap is: 16
+The prime is: 13162379
+The value of n is: 3628
+The prime gap is: 4
+The prime is: 13191419
+The value of n is: 3632
+The prime gap is: 4
+The prime is: 13264159
+The value of n is: 3642
+The prime gap is: 10
+The prime is: 13293311
+The value of n is: 3646
+The prime gap is: 4
+The prime is: 13498271
+The value of n is: 3674
+The prime gap is: 28
+The prime is: 13557119
+The value of n is: 3682
+The prime gap is: 8
+The prime is: 13571851
+The value of n is: 3684
+The prime gap is: 2
+The prime is: 13601339
+The value of n is: 3688
+The prime gap is: 4
+The prime is: 13704799
+The value of n is: 3702
+The prime gap is: 14
+The prime is: 13719611
+The value of n is: 3704
+The prime gap is: 2
+The prime is: 13749259
+The value of n is: 3708
+The prime gap is: 4
+The prime is: 13808651
+The value of n is: 3716
+The prime gap is: 8
+The prime is: 13868171
+The value of n is: 3724
+The prime gap is: 8
+The prime is: 13927819
+The value of n is: 3732
+The prime gap is: 8
+The prime is: 14047499
+The value of n is: 3748
+The prime gap is: 16
+The prime is: 14092511
+The value of n is: 3754
+The prime gap is: 6
+The prime is: 14167691
+The value of n is: 3764
+The prime gap is: 10
+The prime is: 14273279
+The value of n is: 3778
+The prime gap is: 14
+The prime is: 14333791
+The value of n is: 3786
+The prime gap is: 8
+The prime is: 14409611
+The value of n is: 3796
+The prime gap is: 10
+The prime is: 14546591
+The value of n is: 3814
+The prime gap is: 18
+The prime is: 14561851
+The value of n is: 3816
+The prime gap is: 2
+The prime is: 14776331
+The value of n is: 3844
+The prime gap is: 28
+The prime is: 14837899
+The value of n is: 3852
+The prime gap is: 8
+The prime is: 14868731
+The value of n is: 3856
+The prime gap is: 4
+The prime is: 14884159
+The value of n is: 3858
+The prime gap is: 2
+The prime is: 14915039
+The value of n is: 3862
+The prime gap is: 4
+The prime is: 14930491
+The value of n is: 3864
+The prime gap is: 2
+The prime is: 14992379
+The value of n is: 3872
+The prime gap is: 8
+The prime is: 15085451
+The value of n is: 3884
+The prime gap is: 12
+The prime is: 15178811
+The value of n is: 3896
+The prime gap is: 12
+The prime is: 15319391
+The value of n is: 3914
+The prime gap is: 18
+The prime is: 15335051
+The value of n is: 3916
+The prime gap is: 2
+The prime is: 15429179
+The value of n is: 3928
+The prime gap is: 12
+The prime is: 15507839
+The value of n is: 3938
+The prime gap is: 10
+The prime is: 15570911
+The value of n is: 3946
+The prime gap is: 8
+The prime is: 15586699
+The value of n is: 3948
+The prime gap is: 2
+The prime is: 15618299
+The value of n is: 3952
+The prime gap is: 4
+The prime is: 15665759
+The value of n is: 3958
+The prime gap is: 6
+The prime is: 15729151
+The value of n is: 3966
+The prime gap is: 8
+The prime is: 15776779
+The value of n is: 3972
+The prime gap is: 6
+The prime is: 15856319
+The value of n is: 3982
+The prime gap is: 10
+The prime is: 15968011
+The value of n is: 3996
+The prime gap is: 14
+The prime is: 16015999
+The value of n is: 4002
+The prime gap is: 6
+The prime is: 16048031
+The value of n is: 4006
+The prime gap is: 4
+The prime is: 16112191
+The value of n is: 4014
+The prime gap is: 8
+The prime is: 16208671
+The value of n is: 4026
+The prime gap is: 12
+The prime is: 16224779
+The value of n is: 4028
+The prime gap is: 2
+The prime is: 16273151
+The value of n is: 4034
+The prime gap is: 6
+The prime is: 16386299
+The value of n is: 4048
+The prime gap is: 14
+The prime is: 16467359
+The value of n is: 4058
+The prime gap is: 10
+The prime is: 16499839
+The value of n is: 4062
+The prime gap is: 4
+The prime is: 16548619
+The value of n is: 4068
+The prime gap is: 6
+The prime is: 16662719
+The value of n is: 4082
+The prime gap is: 14
+The prime is: 16744459
+The value of n is: 4092
+The prime gap is: 10
+The prime is: 17007371
+The value of n is: 4124
+The prime gap is: 32
+The prime is: 17089951
+The value of n is: 4134
+The prime gap is: 10
+The prime is: 17156159
+The value of n is: 4142
+The prime gap is: 8
+The prime is: 17272331
+The value of n is: 4156
+The prime gap is: 14
+The prime is: 17355551
+The value of n is: 4166
+The prime gap is: 10
+The prime is: 17372219
+The value of n is: 4168
+The prime gap is: 2
+The prime is: 17606411
+The value of n is: 4196
+The prime gap is: 28
+The prime is: 17673611
+The value of n is: 4204
+The prime gap is: 8
+The prime is: 17757791
+The value of n is: 4214
+The prime gap is: 10
+The prime is: 17791519
+The value of n is: 4218
+The prime gap is: 4
+The prime is: 17842171
+The value of n is: 4224
+The prime gap is: 6
+The prime is: 17859071
+The value of n is: 4226
+The prime gap is: 2
+The prime is: 17926751
+The value of n is: 4234
+The prime gap is: 8
+The prime is: 17960639
+The value of n is: 4238
+The prime gap is: 4
+The prime is: 18130559
+The value of n is: 4258
+The prime gap is: 20
+The prime is: 18164639
+The value of n is: 4262
+The prime gap is: 4
+The prime is: 18284171
+The value of n is: 4276
+The prime gap is: 14
+The prime is: 18301279
+The value of n is: 4278
+The prime gap is: 2
+The prime is: 18335519
+The value of n is: 4282
+The prime gap is: 4
+The prime is: 18541631
+The value of n is: 4306
+The prime gap is: 24
+The prime is: 18593339
+The value of n is: 4312
+The prime gap is: 6
+The prime is: 18731579
+The value of n is: 4328
+The prime gap is: 16
+The prime is: 18870331
+The value of n is: 4344
+The prime gap is: 16
+The prime is: 18957311
+The value of n is: 4354
+The prime gap is: 10
+The prime is: 18974731
+The value of n is: 4356
+The prime gap is: 2
+The prime is: 19027039
+The value of n is: 4362
+The prime gap is: 6
+The prime is: 19044491
+The value of n is: 4364
+The prime gap is: 2
+The prime is: 19149371
+The value of n is: 4376
+The prime gap is: 12
+The prime is: 19166879
+The value of n is: 4378
+The prime gap is: 2
+The prime is: 19219451
+The value of n is: 4384
+The prime gap is: 6
+The prime is: 19465739
+The value of n is: 4412
+The prime gap is: 28
+The prime is: 19483391
+The value of n is: 4414
+The prime gap is: 2
+The prime is: 19554079
+The value of n is: 4422
+The prime gap is: 8
+The prime is: 19571771
+The value of n is: 4424
+The prime gap is: 2
+The prime is: 19607179
+The value of n is: 4428
+The prime gap is: 4
+The prime is: 19642619
+The value of n is: 4432
+The prime gap is: 4
+The prime is: 19731359
+The value of n is: 4442
+The prime gap is: 10
+The prime is: 19766911
+The value of n is: 4446
+The prime gap is: 4
+The prime is: 19820299
+The value of n is: 4452
+The prime gap is: 6
+The prime is: 19945151
+The value of n is: 4466
+The prime gap is: 14
+The prime is: 19963019
+The value of n is: 4468
+The prime gap is: 2
+The prime is: 19998779
+The value of n is: 4472
+The prime gap is: 4
+The prime is: 20052479
+The value of n is: 4478
+The prime gap is: 6
+The prime is: 20124191
+The value of n is: 4486
+The prime gap is: 8
+The prime is: 20412319
+The value of n is: 4518
+The prime gap is: 32
+The prime is: 20484671
+The value of n is: 4526
+The prime gap is: 8
+The prime is: 20666111
+The value of n is: 4546
+The prime gap is: 20
+The prime is: 20939771
+The value of n is: 4576
+The prime gap is: 30
+The prime is: 20958079
+The value of n is: 4578
+The prime gap is: 2
+The prime is: 21031391
+The value of n is: 4586
+The prime gap is: 8
+The prime is: 21123211
+The value of n is: 4596
+The prime gap is: 10
+The prime is: 21196811
+The value of n is: 4604
+The prime gap is: 8
+The prime is: 21215231
+The value of n is: 4606
+The prime gap is: 2
+The prime is: 21270539
+The value of n is: 4612
+The prime gap is: 6
+The prime is: 21288991
+The value of n is: 4614
+The prime gap is: 2
+The prime is: 21325919
+The value of n is: 4618
+The prime gap is: 4
+The prime is: 21418379
+The value of n is: 4628
+The prime gap is: 10
+The prime is: 21548159
+The value of n is: 4642
+The prime gap is: 14
+The prime is: 21603899
+The value of n is: 4648
+The prime gap is: 6
+The prime is: 21641099
+The value of n is: 4652
+The prime gap is: 4
+The prime is: 21659711
+The value of n is: 4654
+The prime gap is: 2
+The prime is: 21827579
+The value of n is: 4672
+The prime gap is: 18
+The prime is: 21846271
+The value of n is: 4674
+The prime gap is: 2
+The prime is: 21883679
+The value of n is: 4678
+The prime gap is: 4
+The prime is: 21958591
+The value of n is: 4686
+The prime gap is: 8
+The prime is: 21977339
+The value of n is: 4688
+The prime gap is: 2
+The prime is: 22014859
+The value of n is: 4692
+The prime gap is: 4
+The prime is: 22524511
+The value of n is: 4746
+The prime gap is: 54
+The prime is: 22581499
+The value of n is: 4752
+The prime gap is: 6
+The prime is: 22676639
+The value of n is: 4762
+The prime gap is: 10
+The prime is: 22714751
+The value of n is: 4766
+The prime gap is: 4
+The prime is: 22771979
+The value of n is: 4772
+The prime gap is: 6
+The prime is: 22810171
+The value of n is: 4776
+The prime gap is: 4
+The prime is: 22905791
+The value of n is: 4786
+The prime gap is: 10
+The prime is: 23097631
+The value of n is: 4806
+The prime gap is: 20
+The prime is: 23116859
+The value of n is: 4808
+The prime gap is: 2
+The prime is: 23290271
+The value of n is: 4826
+The prime gap is: 18
+The prime is: 23367551
+The value of n is: 4834
+The prime gap is: 8
+The prime is: 23639039
+The value of n is: 4862
+The prime gap is: 28
+The prime is: 23658491
+The value of n is: 4864
+The prime gap is: 2
+The prime is: 23872991
+The value of n is: 4886
+The prime gap is: 22
+The prime is: 23951231
+The value of n is: 4894
+The prime gap is: 8
+The prime is: 23990399
+The value of n is: 4898
+The prime gap is: 4
+The prime is: 24088459
+The value of n is: 4908
+The prime gap is: 10
+The prime is: 24344351
+The value of n is: 4934
+The prime gap is: 26
+The prime is: 24383839
+The value of n is: 4938
+The prime gap is: 4
+The prime is: 24443131
+The value of n is: 4944
+The prime gap is: 6
+The prime is: 24621439
+The value of n is: 4962
+The prime gap is: 18
+The prime is: 24840251
+The value of n is: 4984
+The prime gap is: 22
+The prime is: 24860191
+The value of n is: 4986
+The prime gap is: 2
+The prime is: 24960011
+The value of n is: 4996
+The prime gap is: 10
+The prime is: 25019999
+The value of n is: 5002
+The prime gap is: 6
+The prime is: 25080059
+The value of n is: 5008
+The prime gap is: 6
+The prime is: 25220479
+The value of n is: 5022
+The prime gap is: 14
+The prime is: 25462111
+The value of n is: 5046
+The prime gap is: 24
+The prime is: 25482299
+The value of n is: 5048
+The prime gap is: 2
+The prime is: 25522699
+The value of n is: 5052
+The prime gap is: 4
+The prime is: 25684619
+The value of n is: 5068
+The prime gap is: 16
+The prime is: 25745471
+The value of n is: 5074
+The prime gap is: 6
+The prime is: 25847051
+The value of n is: 5084
+The prime gap is: 10
+The prime is: 25887739
+The value of n is: 5088
+The prime gap is: 4
+The prime is: 25948831
+The value of n is: 5094
+The prime gap is: 6
+The prime is: 25969211
+The value of n is: 5096
+The prime gap is: 2
+The prime is: 26193919
+The value of n is: 5118
+The prime gap is: 22
+The prime is: 26255371
+The value of n is: 5124
+The prime gap is: 6
+The prime is: 26275871
+The value of n is: 5126
+The prime gap is: 2
+The prime is: 26440159
+The value of n is: 5142
+The prime gap is: 16
+The prime is: 26481311
+The value of n is: 5146
+The prime gap is: 4
+The prime is: 26501899
+The value of n is: 5148
+The prime gap is: 2
+The prime is: 26584331
+The value of n is: 5156
+The prime gap is: 8
+The prime is: 26749579
+The value of n is: 5172
+The prime gap is: 16
+The prime is: 26894591
+The value of n is: 5186
+The prime gap is: 14
+The prime is: 26956859
+The value of n is: 5192
+The prime gap is: 6
+The prime is: 27081611
+The value of n is: 5204
+The prime gap is: 12
+The prime is: 27123259
+The value of n is: 5208
+The prime gap is: 4
+The prime is: 27311071
+The value of n is: 5226
+The prime gap is: 18
+The prime is: 27415691
+The value of n is: 5236
+The prime gap is: 10
+The prime is: 27478559
+The value of n is: 5242
+The prime gap is: 6
+The prime is: 27499531
+The value of n is: 5244
+The prime gap is: 2
+The prime is: 27541499
+The value of n is: 5248
+The prime gap is: 4
+The prime is: 27625531
+The value of n is: 5256
+The prime gap is: 8
+The prime is: 27646559
+The value of n is: 5258
+The prime gap is: 2
+The prime is: 27730751
+The value of n is: 5266
+The prime gap is: 8
+The prime is: 27751819
+The value of n is: 5268
+The prime gap is: 2
+The prime is: 27815071
+The value of n is: 5274
+The prime gap is: 6
+The prime is: 27899519
+The value of n is: 5282
+The prime gap is: 8
+The prime is: 27941791
+The value of n is: 5286
+The prime gap is: 4
+The prime is: 27962939
+The value of n is: 5288
+The prime gap is: 2
+The prime is: 28238591
+The value of n is: 5314
+The prime gap is: 26
+The prime is: 28430219
+The value of n is: 5332
+The prime gap is: 18
+The prime is: 28472891
+The value of n is: 5336
+The prime gap is: 4
+The prime is: 28558331
+The value of n is: 5344
+The prime gap is: 8
+The prime is: 28793951
+The value of n is: 5366
+The prime gap is: 22
+The prime is: 28922879
+The value of n is: 5378
+The prime gap is: 12
+The prime is: 28965919
+The value of n is: 5382
+The prime gap is: 4
+The prime is: 29116811
+The value of n is: 5396
+The prime gap is: 14
+The prime is: 29441471
+The value of n is: 5426
+The prime gap is: 30
+The prime is: 29463179
+The value of n is: 5428
+The prime gap is: 2
+The prime is: 29615359
+The value of n is: 5442
+The prime gap is: 14
+The prime is: 29658911
+The value of n is: 5446
+The prime gap is: 4
+The prime is: 29746111
+The value of n is: 5454
+The prime gap is: 8
+The prime is: 29789759
+The value of n is: 5458
+The prime gap is: 4
+The prime is: 29986571
+The value of n is: 5476
+The prime gap is: 18
+The prime is: 30008479
+The value of n is: 5478
+The prime gap is: 2
+The prime is: 30096191
+The value of n is: 5486
+The prime gap is: 8
+The prime is: 30184031
+The value of n is: 5494
+The prime gap is: 8
+The prime is: 30227999
+The value of n is: 5498
+The prime gap is: 4
+The prime is: 30625151
+The value of n is: 5534
+The prime gap is: 36
+The prime is: 30647291
+The value of n is: 5536
+The prime gap is: 2
+The prime is: 30713759
+The value of n is: 5542
+The prime gap is: 6
+The prime is: 30735931
+The value of n is: 5544
+The prime gap is: 2
+The prime is: 30758111
+The value of n is: 5546
+The prime gap is: 2
+The prime is: 30824699
+The value of n is: 5552
+The prime gap is: 6
+The prime is: 30958091
+The value of n is: 5564
+The prime gap is: 12
+The prime is: 30980351
+The value of n is: 5566
+The prime gap is: 2
+The prime is: 31114079
+The value of n is: 5578
+The prime gap is: 12
+The prime is: 31337599
+The value of n is: 5598
+The prime gap is: 20
+The prime is: 31382399
+The value of n is: 5602
+The prime gap is: 4
+The prime is: 31561919
+The value of n is: 5618
+The prime gap is: 16
+The prime is: 31606879
+The value of n is: 5622
+The prime gap is: 4
+The prime is: 31629371
+The value of n is: 5624
+The prime gap is: 2
+The prime is: 31967711
+The value of n is: 5654
+The prime gap is: 30
+The prime is: 32058239
+The value of n is: 5662
+The prime gap is: 8
+The prime is: 32194271
+The value of n is: 5674
+The prime gap is: 12
+The prime is: 32353339
+The value of n is: 5688
+The prime gap is: 14
+The prime is: 32444411
+The value of n is: 5696
+The prime gap is: 8
+The prime is: 32535611
+The value of n is: 5704
+The prime gap is: 8
+The prime is: 32649791
+The value of n is: 5714
+The prime gap is: 10
+The prime is: 32741279
+The value of n is: 5722
+The prime gap is: 8
+The prime is: 32855819
+The value of n is: 5732
+The prime gap is: 10
+The prime is: 32901691
+The value of n is: 5736
+The prime gap is: 4
+The prime is: 32970559
+The value of n is: 5742
+The prime gap is: 6
+The prime is: 33085499
+The value of n is: 5752
+The prime gap is: 10
+The prime is: 33108511
+The value of n is: 5754
+The prime gap is: 2
+The prime is: 33223691
+The value of n is: 5764
+The prime gap is: 10
+The prime is: 33500939
+The value of n is: 5788
+The prime gap is: 24
+The prime is: 33709631
+The value of n is: 5806
+The prime gap is: 18
+The prime is: 33732859
+The value of n is: 5808
+The prime gap is: 2
+The prime is: 33802591
+The value of n is: 5814
+The prime gap is: 6
+The prime is: 34012219
+The value of n is: 5832
+The prime gap is: 18
+The prime is: 34152331
+The value of n is: 5844
+The prime gap is: 12
+The prime is: 34269311
+The value of n is: 5854
+The prime gap is: 10
+The prime is: 34316159
+The value of n is: 5858
+The prime gap is: 4
+The prime is: 34433419
+The value of n is: 5868
+The prime gap is: 10
+The prime is: 34503871
+The value of n is: 5874
+The prime gap is: 6
+The prime is: 34644991
+The value of n is: 5886
+The prime gap is: 12
+The prime is: 34833599
+The value of n is: 5902
+The prime gap is: 16
+The prime is: 34857211
+The value of n is: 5904
+The prime gap is: 2
+The prime is: 34880831
+The value of n is: 5906
+The prime gap is: 2
+The prime is: 34951739
+The value of n is: 5912
+The prime gap is: 6
+The prime is: 34999051
+The value of n is: 5916
+The prime gap is: 4
+The prime is: 35093771
+The value of n is: 5924
+The prime gap is: 8
+The prime is: 35117471
+The value of n is: 5926
+The prime gap is: 2
+The prime is: 35307359
+The value of n is: 5942
+The prime gap is: 16
+The prime is: 35378699
+The value of n is: 5948
+The prime gap is: 6
+The prime is: 35450111
+The value of n is: 5954
+The prime gap is: 6
+The prime is: 35569291
+The value of n is: 5964
+The prime gap is: 10
+The prime is: 35617019
+The value of n is: 5968
+The prime gap is: 4
+The prime is: 35664779
+The value of n is: 5972
+The prime gap is: 4
+The prime is: 35736479
+The value of n is: 5978
+The prime gap is: 6
+The prime is: 35832191
+The value of n is: 5986
+The prime gap is: 8
+The prime is: 35952011
+The value of n is: 5996
+The prime gap is: 10
+The prime is: 35975999
+The value of n is: 5998
+The prime gap is: 2
+The prime is: 36144139
+The value of n is: 6012
+The prime gap is: 14
+The prime is: 36264479
+The value of n is: 6022
+The prime gap is: 10
+The prime is: 36409151
+The value of n is: 6034
+The prime gap is: 12
+The prime is: 36578299
+The value of n is: 6048
+The prime gap is: 14
+The prime is: 36699359
+The value of n is: 6058
+The prime gap is: 10
+The prime is: 36747839
+The value of n is: 6062
+The prime gap is: 4
+The prime is: 36796351
+The value of n is: 6066
+The prime gap is: 4
+The prime is: 36942079
+The value of n is: 6078
+The prime gap is: 12
+The prime is: 37039391
+The value of n is: 6086
+The prime gap is: 8
+The prime is: 37063739
+The value of n is: 6088
+The prime gap is: 2
+The prime is: 37112459
+The value of n is: 6092
+The prime gap is: 4
+The prime is: 37283231
+The value of n is: 6106
+The prime gap is: 14
+The prime is: 37380991
+The value of n is: 6114
+The prime gap is: 8
+The prime is: 37429919
+The value of n is: 6118
+The prime gap is: 4
+The prime is: 37503371
+The value of n is: 6124
+The prime gap is: 6
+The prime is: 37797899
+The value of n is: 6148
+The prime gap is: 24
+The prime is: 37847099
+The value of n is: 6152
+The prime gap is: 4
+The prime is: 37871711
+The value of n is: 6154
+The prime gap is: 2
+The prime is: 37970239
+The value of n is: 6162
+The prime gap is: 8
+The prime is: 38142971
+The value of n is: 6176
+The prime gap is: 14
+The prime is: 38415199
+The value of n is: 6198
+The prime gap is: 22
+The prime is: 38464799
+The value of n is: 6202
+The prime gap is: 4
+The prime is: 38588939
+The value of n is: 6212
+The prime gap is: 10
+The prime is: 38613791
+The value of n is: 6214
+The prime gap is: 2
+The prime is: 38638651
+The value of n is: 6216
+The prime gap is: 2
+The prime is: 38763071
+The value of n is: 6226
+The prime gap is: 10
+The prime is: 38787979
+The value of n is: 6228
+The prime gap is: 2
+The prime is: 39112511
+The value of n is: 6254
+The prime gap is: 26
+The prime is: 39162559
+The value of n is: 6258
+The prime gap is: 4
+The prime is: 39237691
+The value of n is: 6264
+The prime gap is: 6
+The prime is: 39337979
+The value of n is: 6272
+The prime gap is: 8
+The prime is: 39388171
+The value of n is: 6276
+The prime gap is: 4
+The prime is: 39413279
+The value of n is: 6278
+The prime gap is: 2
+The prime is: 39614431
+The value of n is: 6294
+The prime gap is: 16
+The prime is: 39765631
+The value of n is: 6306
+The prime gap is: 12
+The prime is: 39841339
+The value of n is: 6312
+The prime gap is: 6
+The prime is: 39891851
+The value of n is: 6316
+The prime gap is: 4
+The prime is: 40119551
+The value of n is: 6334
+The prime gap is: 18
+The prime is: 40347899
+The value of n is: 6352
+The prime gap is: 18
+The prime is: 40602379
+The value of n is: 6372
+The prime gap is: 20
+The prime is: 40678879
+The value of n is: 6378
+The prime gap is: 6
+The prime is: 40985599
+The value of n is: 6402
+The prime gap is: 24
+The prime is: 41165051
+The value of n is: 6416
+The prime gap is: 14
+The prime is: 41190719
+The value of n is: 6418
+The prime gap is: 2
+The prime is: 41293471
+The value of n is: 6426
+The prime gap is: 8
+The prime is: 41396351
+The value of n is: 6434
+The prime gap is: 8
+The prime is: 41576699
+The value of n is: 6448
+The prime gap is: 14
+The prime is: 41757439
+The value of n is: 6462
+The prime gap is: 14
+The prime is: 41835019
+The value of n is: 6468
+The prime gap is: 6
+The prime is: 42198011
+The value of n is: 6496
+The prime gap is: 28
+The prime is: 42484319
+The value of n is: 6518
+The prime gap is: 22
+The prime is: 42562571
+The value of n is: 6524
+The prime gap is: 6
+The prime is: 42614779
+The value of n is: 6528
+The prime gap is: 4
+The prime is: 42693151
+The value of n is: 6534
+The prime gap is: 6
+The prime is: 42823931
+The value of n is: 6544
+The prime gap is: 10
+The prime is: 42954911
+The value of n is: 6554
+The prime gap is: 10
+The prime is: 43007359
+The value of n is: 6558
+The prime gap is: 4
+The prime is: 43138619
+The value of n is: 6568
+The prime gap is: 10
+The prime is: 43454459
+The value of n is: 6592
+The prime gap is: 24
+The prime is: 43533599
+The value of n is: 6598
+The prime gap is: 6
+The prime is: 43665659
+The value of n is: 6608
+The prime gap is: 10
+The prime is: 43718539
+The value of n is: 6612
+The prime gap is: 4
+The prime is: 43983419
+The value of n is: 6632
+The prime gap is: 20
+The prime is: 44009951
+The value of n is: 6634
+The prime gap is: 2
+The prime is: 44036491
+The value of n is: 6636
+The prime gap is: 2
+The prime is: 44142731
+The value of n is: 6644
+The prime gap is: 8
+The prime is: 44275711
+The value of n is: 6654
+The prime gap is: 10
+The prime is: 44462219
+The value of n is: 6668
+The prime gap is: 14
+The prime is: 44542271
+The value of n is: 6674
+The prime gap is: 6
+The prime is: 44568971
+The value of n is: 6676
+The prime gap is: 2
+The prime is: 44997259
+The value of n is: 6708
+The prime gap is: 32
+The prime is: 45050939
+The value of n is: 6712
+The prime gap is: 4
+The prime is: 45239071
+The value of n is: 6726
+The prime gap is: 14
+The prime is: 45319819
+The value of n is: 6732
+The prime gap is: 6
+The prime is: 45400639
+The value of n is: 6738
+The prime gap is: 6
+The prime is: 45535499
+The value of n is: 6748
+The prime gap is: 10
+The prime is: 45643531
+The value of n is: 6756
+The prime gap is: 8
+The prime is: 45995519
+The value of n is: 6782
+The prime gap is: 26
+The prime is: 46022651
+The value of n is: 6784
+The prime gap is: 2
+The prime is: 46212799
+The value of n is: 6798
+The prime gap is: 14
+The prime is: 46485119
+The value of n is: 6818
+The prime gap is: 20
+The prime is: 46539679
+The value of n is: 6822
+The prime gap is: 4
+The prime is: 46840331
+The value of n is: 6844
+The prime gap is: 22
+The prime is: 47004731
+The value of n is: 6856
+The prime gap is: 12
+The prime is: 47141951
+The value of n is: 6866
+The prime gap is: 10
+The prime is: 47306879
+The value of n is: 6878
+The prime gap is: 12
+The prime is: 47499659
+The value of n is: 6892
+The prime gap is: 14
+The prime is: 47527231
+The value of n is: 6894
+The prime gap is: 2
+The prime is: 47554811
+The value of n is: 6896
+The prime gap is: 2
+The prime is: 47637599
+The value of n is: 6902
+The prime gap is: 6
+The prime is: 47720459
+The value of n is: 6908
+The prime gap is: 6
+The prime is: 47803391
+The value of n is: 6914
+The prime gap is: 6
+The prime is: 48330299
+The value of n is: 6952
+The prime gap is: 38
+The prime is: 48553019
+The value of n is: 6968
+The prime gap is: 16
+The prime is: 48636671
+The value of n is: 6974
+The prime gap is: 6
+The prime is: 48664571
+The value of n is: 6976
+The prime gap is: 2
+The prime is: 48776251
+The value of n is: 6984
+The prime gap is: 8
+The prime is: 48804191
+The value of n is: 6986
+The prime gap is: 2
+The prime is: 48832139
+The value of n is: 6988
+The prime gap is: 2
+The prime is: 48944011
+The value of n is: 6996
+The prime gap is: 8
+The prime is: 49084031
+The value of n is: 7006
+The prime gap is: 10
+The prime is: 49112059
+The value of n is: 7008
+The prime gap is: 2
+The prime is: 49224251
+The value of n is: 7016
+The prime gap is: 8
+The prime is: 49477151
+The value of n is: 7034
+The prime gap is: 18
+The prime is: 49674299
+The value of n is: 7048
+The prime gap is: 14
+The prime is: 49730699
+The value of n is: 7052
+The prime gap is: 4
+The prime is: 49787131
+The value of n is: 7056
+The prime gap is: 4
+The prime is: 49956619
+The value of n is: 7068
+The prime gap is: 12
+The prime is: 50069771
+The value of n is: 7076
+The prime gap is: 8
+The prime is: 50381599
+The value of n is: 7098
+The prime gap is: 22
+The prime is: 50466811
+The value of n is: 7104
+The prime gap is: 6
+The prime is: 50580539
+The value of n is: 7112
+The prime gap is: 8
+The prime is: 50665919
+The value of n is: 7118
+The prime gap is: 6
+The prime is: 50722879
+The value of n is: 7122
+The prime gap is: 4
+The prime is: 50808379
+The value of n is: 7128
+The prime gap is: 6
+The prime is: 51351551
+The value of n is: 7166
+The prime gap is: 38
+The prime is: 51753631
+The value of n is: 7194
+The prime gap is: 28
+The prime is: 51782411
+The value of n is: 7196
+The prime gap is: 2
+The prime is: 51868799
+The value of n is: 7202
+The prime gap is: 6
+The prime is: 51897611
+The value of n is: 7204
+The prime gap is: 2
+The prime is: 52157279
+The value of n is: 7222
+The prime gap is: 18
+The prime is: 52215071
+The value of n is: 7226
+The prime gap is: 4
+The prime is: 52359691
+The value of n is: 7236
+The prime gap is: 10
+The prime is: 52388639
+The value of n is: 7238
+The prime gap is: 2
+The prime is: 52504511
+The value of n is: 7246
+The prime gap is: 8
+The prime is: 52591499
+The value of n is: 7252
+The prime gap is: 6
+The prime is: 52678559
+The value of n is: 7258
+The prime gap is: 6
+The prime is: 52911071
+The value of n is: 7274
+The prime gap is: 16
+The prime is: 53260799
+The value of n is: 7298
+The prime gap is: 24
+The prime is: 53348411
+The value of n is: 7304
+The prime gap is: 6
+The prime is: 53465339
+The value of n is: 7312
+The prime gap is: 8
+The prime is: 53553119
+The value of n is: 7318
+The prime gap is: 6
+The prime is: 53758219
+The value of n is: 7332
+The prime gap is: 14
+The prime is: 53787551
+The value of n is: 7334
+The prime gap is: 2
+The prime is: 53816891
+The value of n is: 7336
+The prime gap is: 2
+The prime is: 53846239
+The value of n is: 7338
+The prime gap is: 2
+The prime is: 53904959
+The value of n is: 7342
+The prime gap is: 4
+The prime is: 54081311
+The value of n is: 7354
+The prime gap is: 12
+The prime is: 54140159
+The value of n is: 7358
+The prime gap is: 4
+The prime is: 54228491
+The value of n is: 7364
+The prime gap is: 6
+The prime is: 54405371
+The value of n is: 7376
+The prime gap is: 12
+The prime is: 54819211
+The value of n is: 7404
+The prime gap is: 28
+The prime is: 54937739
+The value of n is: 7412
+The prime gap is: 8
+The prime is: 54967391
+The value of n is: 7414
+The prime gap is: 2
+The prime is: 55532299
+The value of n is: 7452
+The prime gap is: 38
+The prime is: 55591931
+The value of n is: 7456
+The prime gap is: 4
+The prime is: 55741151
+The value of n is: 7466
+The prime gap is: 10
+The prime is: 55920479
+The value of n is: 7478
+The prime gap is: 12
+The prime is: 56130059
+The value of n is: 7492
+The prime gap is: 14
+The prime is: 56610571
+The value of n is: 7524
+The prime gap is: 32
+The prime is: 56640671
+The value of n is: 7526
+The prime gap is: 2
+The prime is: 56731019
+The value of n is: 7532
+The prime gap is: 6
+The prime is: 56791291
+The value of n is: 7536
+The prime gap is: 4
+The prime is: 57062911
+The value of n is: 7554
+The prime gap is: 18
+The prime is: 57093131
+The value of n is: 7556
+The prime gap is: 2
+The prime is: 57244351
+The value of n is: 7566
+The prime gap is: 10
+The prime is: 57274619
+The value of n is: 7568
+The prime gap is: 2
+The prime is: 57395771
+The value of n is: 7576
+The prime gap is: 8
+The prime is: 57426079
+The value of n is: 7578
+The prime gap is: 2
+The prime is: 57486719
+The value of n is: 7582
+The prime gap is: 4
+The prime is: 57577739
+The value of n is: 7588
+The prime gap is: 6
+The prime is: 57699211
+The value of n is: 7596
+The prime gap is: 8
+The prime is: 57851231
+The value of n is: 7606
+The prime gap is: 10
+The prime is: 57942539
+The value of n is: 7612
+The prime gap is: 6
+The prime is: 58094879
+The value of n is: 7622
+The prime gap is: 10
+The prime is: 58308491
+The value of n is: 7636
+The prime gap is: 14
+The prime is: 58430731
+The value of n is: 7644
+The prime gap is: 8
+The prime is: 58614331
+The value of n is: 7656
+The prime gap is: 12
+The prime is: 58736891
+The value of n is: 7664
+The prime gap is: 8
+The prime is: 58798219
+The value of n is: 7668
+The prime gap is: 4
+The prime is: 58859579
+The value of n is: 7672
+The prime gap is: 4
+The prime is: 58920971
+The value of n is: 7676
+The prime gap is: 4
+The prime is: 59043851
+The value of n is: 7684
+The prime gap is: 8
+The prime is: 59105339
+The value of n is: 7688
+The prime gap is: 4
+The prime is: 59320799
+The value of n is: 7702
+The prime gap is: 14
+The prime is: 59413259
+The value of n is: 7708
+The prime gap is: 6
+The prime is: 59721979
+The value of n is: 7728
+The prime gap is: 20
+The prime is: 59814751
+The value of n is: 7734
+The prime gap is: 6
+The prime is: 60000511
+The value of n is: 7746
+The prime gap is: 12
+The prime is: 60310751
+The value of n is: 7766
+The prime gap is: 20
+The prime is: 60435071
+The value of n is: 7774
+The prime gap is: 8
+The prime is: 60621791
+The value of n is: 7786
+The prime gap is: 12
+The prime is: 60871199
+The value of n is: 7802
+The prime gap is: 16
+The prime is: 60964859
+The value of n is: 7808
+The prime gap is: 6
+The prime is: 61214971
+The value of n is: 7824
+The prime gap is: 16
+The prime is: 61340219
+The value of n is: 7832
+The prime gap is: 8
+The prime is: 62125919
+The value of n is: 7882
+The prime gap is: 50
+The prime is: 62188991
+The value of n is: 7886
+The prime gap is: 4
+The prime is: 62220539
+The value of n is: 7888
+The prime gap is: 2
+The prime is: 62536459
+The value of n is: 7908
+The prime gap is: 20
+The prime is: 62758079
+The value of n is: 7922
+The prime gap is: 14
+The prime is: 63329759
+The value of n is: 7958
+The prime gap is: 36
+The prime is: 63393439
+The value of n is: 7962
+The prime gap is: 4
+The prime is: 63584671
+The value of n is: 7974
+The prime gap is: 12
+The prime is: 63616571
+The value of n is: 7976
+The prime gap is: 2
+The prime is: 63808139
+The value of n is: 7988
+The prime gap is: 12
+The prime is: 63936011
+The value of n is: 7996
+The prime gap is: 8
+The prime is: 64834699
+The value of n is: 8052
+The prime gap is: 56
+The prime is: 65092619
+The value of n is: 8068
+The prime gap is: 16
+The prime is: 65157179
+The value of n is: 8072
+The prime gap is: 4
+The prime is: 65221771
+The value of n is: 8076
+The prime gap is: 4
+The prime is: 65415739
+The value of n is: 8088
+The prime gap is: 12
+The prime is: 65512831
+The value of n is: 8094
+The prime gap is: 6
+The prime is: 65577599
+The value of n is: 8098
+The prime gap is: 4
+The prime is: 65707231
+The value of n is: 8106
+The prime gap is: 8
+The prime is: 65739659
+The value of n is: 8108
+The prime gap is: 2
+The prime is: 65804539
+The value of n is: 8112
+The prime gap is: 4
+The prime is: 66031871
+The value of n is: 8126
+The prime gap is: 14
+The prime is: 66129419
+The value of n is: 8132
+The prime gap is: 6
+The prime is: 66520331
+The value of n is: 8156
+The prime gap is: 24
+The prime is: 66618239
+The value of n is: 8162
+The prime gap is: 6
+The prime is: 66814271
+The value of n is: 8174
+The prime gap is: 12
+The prime is: 66846971
+The value of n is: 8176
+The prime gap is: 2
+The prime is: 67010591
+The value of n is: 8186
+The prime gap is: 10
+The prime is: 67108859
+The value of n is: 8192
+The prime gap is: 6
+The prime is: 67141631
+The value of n is: 8194
+The prime gap is: 2
+The prime is: 67371259
+The value of n is: 8208
+The prime gap is: 14
+The prime is: 67436939
+The value of n is: 8212
+The prime gap is: 4
+The prime is: 67502651
+The value of n is: 8216
+The prime gap is: 4
+The prime is: 67601279
+The value of n is: 8222
+The prime gap is: 6
+The prime is: 67930559
+The value of n is: 8242
+The prime gap is: 20
+The prime is: 68029499
+The value of n is: 8248
+The prime gap is: 6
+The prime is: 68260639
+The value of n is: 8262
+The prime gap is: 14
+The prime is: 68425979
+The value of n is: 8272
+The prime gap is: 10
+The prime is: 68525279
+The value of n is: 8278
+The prime gap is: 6
+The prime is: 68657791
+The value of n is: 8286
+The prime gap is: 8
+The prime is: 68690939
+The value of n is: 8288
+The prime gap is: 2
+The prime is: 68757259
+The value of n is: 8292
+The prime gap is: 4
+The prime is: 68956411
+The value of n is: 8304
+The prime gap is: 12
+The prime is: 68989631
+The value of n is: 8306
+The prime gap is: 2
+The prime is: 69189119
+The value of n is: 8318
+The prime gap is: 12
+The prime is: 69322271
+The value of n is: 8326
+The prime gap is: 8
+The prime is: 69622331
+The value of n is: 8344
+The prime gap is: 18
+The prime is: 69689099
+The value of n is: 8348
+The prime gap is: 4
+The prime is: 70123871
+The value of n is: 8374
+The prime gap is: 26
+The prime is: 70257919
+The value of n is: 8382
+The prime gap is: 8
+The prime is: 70593599
+The value of n is: 8402
+The prime gap is: 20
+The prime is: 70627211
+The value of n is: 8404
+The prime gap is: 2
+The prime is: 70660831
+The value of n is: 8406
+The prime gap is: 2
+The prime is: 70829051
+The value of n is: 8416
+The prime gap is: 10
+The prime is: 71537759
+The value of n is: 8458
+The prime gap is: 42
+The prime is: 72215999
+The value of n is: 8498
+The prime gap is: 40
+The prime is: 72522251
+The value of n is: 8516
+The prime gap is: 18
+The prime is: 72658571
+The value of n is: 8524
+The prime gap is: 8
+The prime is: 72692671
+The value of n is: 8526
+The prime gap is: 2
+The prime is: 72863291
+The value of n is: 8536
+The prime gap is: 10
+The prime is: 72965759
+The value of n is: 8542
+The prime gap is: 6
+The prime is: 73068299
+The value of n is: 8548
+The prime gap is: 6
+The prime is: 73342091
+The value of n is: 8564
+The prime gap is: 16
+The prime is: 73753739
+The value of n is: 8588
+The prime gap is: 24
+The prime is: 73822459
+The value of n is: 8592
+The prime gap is: 4
+The prime is: 73856831
+The value of n is: 8594
+The prime gap is: 2
+The prime is: 74028811
+The value of n is: 8604
+The prime gap is: 10
+The prime is: 74269919
+The value of n is: 8618
+The prime gap is: 14
+The prime is: 74407871
+The value of n is: 8626
+The prime gap is: 8
+The prime is: 74545951
+The value of n is: 8634
+The prime gap is: 8
+The prime is: 74753311
+The value of n is: 8646
+The prime gap is: 12
+The prime is: 74787899
+The value of n is: 8648
+The prime gap is: 2
+The prime is: 74926331
+The value of n is: 8656
+The prime gap is: 8
+The prime is: 75134219
+The value of n is: 8668
+The prime gap is: 12
+The prime is: 75272971
+The value of n is: 8676
+The prime gap is: 8
+The prime is: 75620411
+The value of n is: 8696
+The prime gap is: 20
+The prime is: 75724799
+The value of n is: 8702
+The prime gap is: 6
+The prime is: 75794431
+The value of n is: 8706
+The prime gap is: 4
+The prime is: 75933791
+The value of n is: 8714
+The prime gap is: 8
+The prime is: 76073279
+The value of n is: 8722
+The prime gap is: 8
+The prime is: 76177979
+The value of n is: 8728
+The prime gap is: 6
+The prime is: 76247819
+The value of n is: 8732
+The prime gap is: 4
+The prime is: 76457531
+The value of n is: 8744
+The prime gap is: 12
+The prime is: 76772639
+The value of n is: 8762
+The prime gap is: 18
+The prime is: 77158651
+The value of n is: 8784
+The prime gap is: 22
+The prime is: 77334431
+The value of n is: 8794
+The prime gap is: 10
+The prime is: 77827679
+The value of n is: 8822
+The prime gap is: 28
+The prime is: 78074891
+The value of n is: 8836
+The prime gap is: 14
+The prime is: 78110239
+The value of n is: 8838
+The prime gap is: 2
+The prime is: 78605951
+The value of n is: 8866
+The prime gap is: 28
+The prime is: 78960991
+The value of n is: 8886
+The prime gap is: 20
+The prime is: 78996539
+The value of n is: 8888
+The prime gap is: 2
+The prime is: 79103231
+The value of n is: 8894
+The prime gap is: 6
+The prime is: 79423739
+The value of n is: 8912
+The prime gap is: 18
+The prime is: 79495051
+The value of n is: 8916
+The prime gap is: 4
+The prime is: 79673471
+The value of n is: 8926
+The prime gap is: 10
+The prime is: 80138299
+The value of n is: 8952
+The prime gap is: 26
+The prime is: 80209931
+The value of n is: 8956
+The prime gap is: 4
+The prime is: 80317439
+The value of n is: 8962
+The prime gap is: 6
+The prime is: 80532671
+The value of n is: 8974
+The prime gap is: 12
+The prime is: 80784139
+The value of n is: 8988
+The prime gap is: 14
+The prime is: 80963999
+The value of n is: 8998
+The prime gap is: 10
+The prime is: 81072011
+The value of n is: 9004
+The prime gap is: 6
+The prime is: 81108031
+The value of n is: 9006
+The prime gap is: 2
+The prime is: 81252191
+The value of n is: 9014
+The prime gap is: 8
+The prime is: 81324319
+The value of n is: 9018
+The prime gap is: 4
+The prime is: 81649291
+The value of n is: 9036
+The prime gap is: 18
+The prime is: 81757759
+The value of n is: 9042
+The prime gap is: 6
+The prime is: 81793931
+The value of n is: 9044
+The prime gap is: 2
+The prime is: 82373771
+The value of n is: 9076
+The prime gap is: 32
+The prime is: 82519051
+The value of n is: 9084
+The prime gap is: 8
+The prime is: 82737211
+The value of n is: 9096
+The prime gap is: 12
+The prime is: 82846399
+The value of n is: 9102
+The prime gap is: 6
+The prime is: 83101451
+The value of n is: 9116
+The prime gap is: 14
+The prime is: 83393419
+The value of n is: 9132
+The prime gap is: 16
+The prime is: 83759099
+The value of n is: 9152
+The prime gap is: 20
+The prime is: 83868959
+The value of n is: 9158
+The prime gap is: 6
+The prime is: 84125579
+The value of n is: 9172
+The prime gap is: 14
+The prime is: 84529631
+The value of n is: 9194
+The prime gap is: 22
+The prime is: 84676799
+The value of n is: 9202
+The prime gap is: 8
+The prime is: 84971519
+The value of n is: 9218
+The prime gap is: 16
+The prime is: 85155979
+The value of n is: 9228
+The prime gap is: 10
+The prime is: 85599499
+The value of n is: 9252
+The prime gap is: 24
+The prime is: 85636511
+The value of n is: 9254
+The prime gap is: 2
+The prime is: 85673531
+The value of n is: 9256
+The prime gap is: 2
+The prime is: 85821691
+The value of n is: 9264
+The prime gap is: 8
+The prime is: 85895819
+The value of n is: 9268
+The prime gap is: 4
+The prime is: 86638859
+The value of n is: 9308
+The prime gap is: 40
+The prime is: 86899679
+The value of n is: 9322
+The prime gap is: 14
+The prime is: 87011579
+The value of n is: 9328
+The prime gap is: 6
+The prime is: 87310331
+The value of n is: 9344
+The prime gap is: 16
+The prime is: 87834379
+The value of n is: 9372
+The prime gap is: 28
+The prime is: 87871871
+The value of n is: 9374
+The prime gap is: 2
+The prime is: 88059451
+The value of n is: 9384
+The prime gap is: 10
+The prime is: 88096991
+The value of n is: 9386
+The prime gap is: 2
+The prime is: 88134539
+The value of n is: 9388
+The prime gap is: 2
+The prime is: 88247231
+The value of n is: 9394
+The prime gap is: 6
+The prime is: 88510459
+The value of n is: 9408
+The prime gap is: 14
+The prime is: 88811771
+The value of n is: 9424
+The prime gap is: 16
+The prime is: 89378111
+The value of n is: 9454
+The prime gap is: 30
+The prime is: 89605151
+The value of n is: 9466
+The prime gap is: 12
+The prime is: 89756671
+The value of n is: 9474
+The prime gap is: 8
+The prime is: 90022139
+The value of n is: 9488
+The prime gap is: 14
+The prime is: 90174011
+The value of n is: 9496
+The prime gap is: 8
+The prime is: 90478139
+The value of n is: 9512
+The prime gap is: 16
+The prime is: 90744671
+The value of n is: 9526
+The prime gap is: 14
+The prime is: 90897151
+The value of n is: 9534
+The prime gap is: 8
+The prime is: 90973439
+The value of n is: 9538
+The prime gap is: 4
+The prime is: 91126111
+The value of n is: 9546
+The prime gap is: 8
+The prime is: 91317131
+The value of n is: 9556
+The prime gap is: 10
+The prime is: 91699771
+The value of n is: 9576
+The prime gap is: 20
+The prime is: 91814719
+The value of n is: 9582
+The prime gap is: 6
+The prime is: 92044831
+The value of n is: 9594
+The prime gap is: 12
+The prime is: 92121599
+The value of n is: 9598
+The prime gap is: 4
+The prime is: 92275231
+The value of n is: 9606
+The prime gap is: 8
+The prime is: 92313659
+The value of n is: 9608
+The prime gap is: 2
+The prime is: 92659871
+The value of n is: 9626
+The prime gap is: 18
+The prime is: 92813951
+The value of n is: 9634
+The prime gap is: 8
+The prime is: 93006731
+The value of n is: 9644
+The prime gap is: 10
+The prime is: 93161099
+The value of n is: 9652
+The prime gap is: 8
+The prime is: 93238331
+The value of n is: 9656
+The prime gap is: 4
+The prime is: 93547579
+The value of n is: 9672
+The prime gap is: 16
+The prime is: 93586271
+The value of n is: 9674
+The prime gap is: 2
+The prime is: 93973631
+The value of n is: 9694
+The prime gap is: 20
+The prime is: 94245259
+The value of n is: 9708
+The prime gap is: 14
+The prime is: 94322939
+The value of n is: 9712
+The prime gap is: 4
+The prime is: 94361791
+The value of n is: 9714
+The prime gap is: 2
+The prime is: 94400651
+The value of n is: 9716
+The prime gap is: 2
+The prime is: 94789691
+The value of n is: 9736
+The prime gap is: 20
+The prime is: 95023499
+The value of n is: 9748
+The prime gap is: 12
+The prime is: 95140511
+The value of n is: 9754
+The prime gap is: 6
+The prime is: 95531071
+The value of n is: 9774
+The prime gap is: 20
+The prime is: 95687519
+The value of n is: 9782
+The prime gap is: 8
+The prime is: 95883259
+The value of n is: 9792
+The prime gap is: 10
+The prime is: 96393119
+The value of n is: 9818
+The prime gap is: 26
+The prime is: 96471679
+The value of n is: 9822
+The prime gap is: 4
+The prime is: 96510971
+The value of n is: 9824
+The prime gap is: 2
+The prime is: 96589579
+The value of n is: 9828
+The prime gap is: 4
+The prime is: 96746891
+The value of n is: 9836
+The prime gap is: 8
+The prime is: 97101311
+The value of n is: 9854
+The prime gap is: 18
+The prime is: 97337951
+The value of n is: 9866
+The prime gap is: 12
+The prime is: 97456379
+The value of n is: 9872
+The prime gap is: 6
+The prime is: 97535371
+The value of n is: 9876
+The prime gap is: 4
+The prime is: 97693451
+The value of n is: 9884
+The prime gap is: 8
+The prime is: 97851659
+The value of n is: 9892
+The prime gap is: 8
+The prime is: 98128831
+The value of n is: 9906
+The prime gap is: 14
+The prime is: 98327051
+The value of n is: 9916
+The prime gap is: 10
+The prime is: 98763839
+The value of n is: 9938
+The prime gap is: 22
+The prime is: 98843359
+The value of n is: 9942
+The prime gap is: 4
+The prime is: 99042299
+The value of n is: 9952
+The prime gap is: 10
+The prime is: 99121931
+The value of n is: 9956
+The prime gap is: 4
+The prime is: 99440779
+The value of n is: 9972
+The prime gap is: 16
+The prime is: 99720191
+The value of n is: 9986
+The prime gap is: 14
+The prime is: 99959999
+The value of n is: 9998
+The prime gap is: 12

@@ -12,10 +12,10 @@ fn is_prime(num: int) -> bool {
 }
 
 fn main() {
-	for a in range(1,10000) {
-		for b in range(1,10000) {
-			for c in range(1,10000) {
-				for x in range(1,10000) {
+	for a in range(1,40) {
+		for b in range(1,40) {
+			for c in range(1,40) {
+				for x in range(1,40) {
 					let prime = a*x*x+b*x+c;
 					if is_prime(prime) {
 						if x > 20 {
