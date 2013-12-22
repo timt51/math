@@ -29,4 +29,4 @@ for row in xrange(0,1000):
         while(not check_left(row, column, board) or not check_up(row, column, board)):
             board[row][column] += 1
 
-print board
+print board[999]

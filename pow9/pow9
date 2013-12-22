@@ -1,7 +1,7 @@
 board = []
-for row in xrange(0, 1000):
+for row in xrange(0, 2):
     board.append([])
-    for column in xrange(0, 100):
+    for column in xrange(0, 3):
         board[row].append(0)
 
 def check_left(row,column,board):
@@ -24,9 +24,11 @@ def check_up(row,column,board):
     else:
         return True
 
-for row in xrange(0,1000):
-    for column in xrange(0, 100):
+for row in xrange(0,2):
+    for column in xrange(0, 3):
+        print board
         while(not check_left(row, column, board) or not check_up(row, column, board)):
+            print board, "in while"
             board[row][column] += 1
 
-print board
+print board[999]
